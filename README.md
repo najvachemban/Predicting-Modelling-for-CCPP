@@ -1,4 +1,4 @@
-# ⚡ Predicting Modelling for Combined Cycle Power Plant (CCPP)
+# ⚡ Predictive Modelling for Combined Cycle Power Plant (CCPP)
 
 **Team Access Denied**  
 A Machine Learning case study on optimizing energy output prediction in Combined Cycle Power Plants using XGBoost and SHAP analysis.
